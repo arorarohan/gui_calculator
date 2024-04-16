@@ -1,5 +1,6 @@
 # gui_calculator
 a scientific calculator with a gui
+currently only works on windows
 
 ## features
 1. gui (duh) using gradio - add, subtract, multiply, divide, nth root, exponent
