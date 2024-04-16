@@ -51,7 +51,10 @@ demo = gr.Interface(
 
     outputs = ['text'],
     clear_btn = 'clear',
-    submit_btn='='
+    submit_btn='=',
+    title= 'Zohandoggo funky calculator',
+    allow_flagging='never',
+    concurrency_limit=None
 )
 
 demo.launch()
